@@ -40,6 +40,7 @@
       
 ### **📁 증빙 자료:**
   * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * https://github.com/IE-PY-2026-1/ie-py-homework-kwon-yu-il/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC1%EC%B0%A8%EC%9D%B4%EB%B0%8E%EC%A7%80.pdf
 
 
 <br>
